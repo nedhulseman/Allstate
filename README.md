@@ -53,10 +53,11 @@ The Python script takes a bit more data manipulation inorder to label and one ho
 
 ## Authors
 
-###Python
+Python
 @Ned Hulseman
 
-###R
-@James Now
+R
+@James Noe
+@Ned Hulseman
 
 
